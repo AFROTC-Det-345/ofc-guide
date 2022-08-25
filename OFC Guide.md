@@ -1,4 +1,37 @@
 # OFC Guide
+
+## TABLE OF CONTENTS
+- [OFC Guide](#ofc-guide)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [TRAINING PROGRAM](#training-program)
+    - [OVERVIEW](#overview)
+    - [INITIAL CHECKLIST FOR SUCCESS](#initial-checklist-for-success)
+      - [Step 1: Read applicable AFROTC Instructions](#step-1-read-applicable-afrotc-instructions)
+      - [Step 2: Know the Self-Assessment Program (SAP) Checklists Backwards and Forwards](#step-2-know-the-self-assessment-program-sap-checklists-backwards-and-forwards)
+      - [Step 3: Review Your Continuity Folder/Book & Local Documents](#step-3-review-your-continuity-folderbook--local-documents)
+      - [Step 4: Know Where to Turn for Help](#step-4-know-where-to-turn-for-help)
+  - [SHIFTING SIGHTS TO YOUR FIRST SEMESTER](#shifting-sights-to-your-first-semester)
+    - [The Cadet Wing Commander](#the-cadet-wing-commander)
+      - [Initial Interactions](#initial-interactions)
+    - [Meetings](#meetings)
+    - [Required Documentation](#required-documentation)
+    - [Operations Plan (OPLAN)](#operations-plan-oplan)
+    - [Operations Orders (OPORDs)](#operations-orders-opords)
+    - [Organizational Chart](#organizational-chart)
+    - [Job Descriptions](#job-descriptions)
+    - [Leadership Laboratory Syllabus](#leadership-laboratory-syllabus)
+    - [Leadership Laboratory (LLAB)](#leadership-laboratory-llab)
+      - [Cadet Planned, Organized, and Executed...Cadre Coached](#cadet-planned-organized-and-executedcadre-coached)
+      - [Commander’s Call LLAB](#commanders-call-llab)
+      - [Objective Accomplishment](#objective-accomplishment)
+      - [Attendance Tracking](#attendance-tracking)
+      - [PMT vs. non-PMT](#pmt-vs-non-pmt)
+    - [POC Orientation](#poc-orientation)
+    - [Physical Training (PT) Program](#physical-training-pt-program)
+      - [Participation Requirements](#participation-requirements)
+      - [Physical Fitness Assessment (PFA)](#physical-fitness-assessment-pfa)
+      - [Mixing Up Workouts](#mixing-up-workouts)
+
 ## TRAINING PROGRAM
 ### OVERVIEW
 To develop quality leaders for the Air Force, each detachment relies primarily on its training program. The Operations Flight Commander (OFC) is responsible for managing this demanding yet rewarding program area. A key point to understand is that no two detachments are created alike. The facilities available,
