@@ -13,7 +13,7 @@
   - [SHIFTING SIGHTS TO YOUR FIRST SEMESTER](#shifting-sights-to-your-first-semester)
     - [The Cadet Wing Commander](#the-cadet-wing-commander)
       - [Initial Interactions](#initial-interactions)
-    - [Meetings](#meetings)
+      - [Meetings](#meetings)
     - [Required Documentation](#required-documentation)
     - [Operations Plan (OPLAN)](#operations-plan-oplan)
     - [Operations Orders (OPORDs)](#operations-orders-opords)
@@ -46,7 +46,7 @@ Current versions can be found on the ROTC team, [Stan-Eval (CCVE) channel](https
 
 You should focus on AFROTCI 36-2011 volumes 1 and 3.
 
-Volume 1 focus on the LLAB curriculum and the objectives that must be met
+Volume 1 focus on the LLAB curriculum and the objectives that must be met.
 
 Volume 3 describes your responsibilities and most of the other administrative information that goes along with Cadet Operations. Be very familiar with Chapter 10, as you will reference it all the time. 
 
@@ -85,7 +85,7 @@ It is critical that you hold the CW/CC accountable from the very beginning. Be c
 
 There will be cadets within the wing who fall short on their responsibilities. It is important to show that this reflects on the CW/CC. Push the CW/CC to figure out how to correct the behavior. Almost every situation can be a training opportunity.
 
-### Meetings
+#### Meetings
 It is strongly recommended that you meet regularly over the breaks and at least once per week during the semester with the CW/CC, to discuss LLAB for the week and approve the following week’s OPORD. Be sure to keep a balanced approach when deciding whether to jump in or simply let the results of his/her decisions unfold. If no unacceptable mission impact will result, it’s okay to let the CW/CC fail. But you must capitalize on the opportunity to provide feedback and foster growth afterwards. Always show that you support them in public.
 
 ### Required Documentation
