@@ -42,7 +42,7 @@ Depending on whether you’ve attended IQT and whether you’re an Academy/ROTC/
 semester – using current instructions and the Holm Center Training philosophy. This initial checklist will take several days to several weeks to complete, so chip away at it slowly and reach out to others for help when necessary.
 
 #### Step 1: Read applicable AFROTC Instructions
-Current versions can be found on the ROTC team, Stan-Eval (CCVE) channel.  
+Current versions can be found on the ROTC team, [Stan-Eval (CCVE) channel](https://teams.microsoft.com/l/channel/19%3af3f8c5424b0040b2b3840b09780cd351%40thread.tacv2/CCVE%2520-%2520Stan-Eval?groupId=cb3abb7f-7504-4300-8e4f-30a968fbef22&tenantId=9f90e2a5-baf5-4a37-87bd-48acea06e6e2).  
 
 You should focus on AFROTCI 36-2011 volumes 1 and 3.
 
@@ -53,10 +53,10 @@ Volume 3 describes your responsibilities and most of the other administrative in
 Key points: Keep the e-copies of these publications on your desktop for quick reference. 95% of the situations you encounter and questions that cadets ask can be found in here. Also, know the minimum requirements. Once you’re sure that your Det fulfills the minimum intent of the regulations, that’s when you get to be creative. Your experience, insights, and ideas can go a long way in adding value to the training program.
 
 Key Guidance:
-  - AFROTCI 36-2011 vol 1
-  - AFROTCI 36-2011 vol 3
-  - AFI36-2905_AFROTCSUP
-  - DAFI36-2903_AFROTCSUP 
+  - [AFROTCI 36-2011 Vol 1, *LLAB Curriculum 2022-2023*](https://airuniversity.sharepoint.com/:b:/r/teams/ROTC/Shared%20Documents/CCVE/Instructions/AFROTCI%2036-2011%20Vol%201%20LLAB%20Curriculum%202022%20-%202023.pdf?csf=1&web=1&e=6qM4Qu)
+  - [AFROTCI 36-2011 Vol 3, *Cadet Operations*](https://airuniversity.sharepoint.com/:b:/r/teams/ROTC/Shared%20Documents/CCVE/Instructions/AFROTCI%2036-2011%20Vol%203%20Cadet%20Operations.pdf?csf=1&web=1&e=AmcgA2)
+  - [AFI36-2905_AFROTCSUP](https://airuniversity.sharepoint.com/:b:/r/teams/ROTC/Shared%20Documents/CCVE/Instructions/AFI%2036-2905%20AFROTC%20SUP%20Fitness%20Program.pdf?csf=1&web=1&e=72ZHBH)
+  - [DAFI36-2903_AFROTCSUP](https://airuniversity.sharepoint.com/:b:/r/teams/ROTC/Shared%20Documents/CCVE/Instructions/DAFI%2036-2903_AFROTCSup.pdf?csf=1&web=1&e=DpHhO6)
 
 #### Step 2: Know the Self-Assessment Program (SAP) Checklists Backwards and Forwards
 Now that you’ve reviewed the information that will help you know your job, it’s time to test yourself with the SAP Checklists. When your Compliance Inspection (CI) occurs, the Assessment Team will use these checklists.  You should be able to provide detailed answers about how you’re meeting standards and should be able to quickly cross-reference everything in the regulations.
