@@ -38,8 +38,7 @@ To develop quality leaders for the Air Force, each detachment relies primarily o
 number of crosstown universities involved, size of the Cadet Wing, and many other factors determine how the training program will take shape. Despite the differences in execution, all OFCs are responsible for certain administrative and training tasks. The purpose of this guide is to give you a checklist for initial success, along with some tips for continued high performance over the summer and into your first semester.
 
 ### INITIAL CHECKLIST FOR SUCCESS
-Depending on whether you’ve attended IQT and whether you’re an Academy/ROTC/OTS graduate, your perspective on training and the specific role you play could vary. Assuming you arrive to the detachment over the summer, this checklist will help you develop your knowledge base and prepare for the coming
-semester – using current instructions and the Holm Center Training philosophy. This initial checklist will take several days to several weeks to complete, so chip away at it slowly and reach out to others for help when necessary.
+Depending on whether you’ve attended IQT and whether you’re an Academy/ROTC/OTS graduate, your perspective on training and the specific role you play could vary. Assuming you arrive to the detachment over the summer, this checklist will help you develop your knowledge base and prepare for the coming semester – using current instructions and the Holm Center Training philosophy. This initial checklist will take several days to several weeks to complete, so chip away at it slowly and reach out to others for help when necessary.
 
 #### Step 1: Read applicable AFROTC Instructions
 Current versions can be found on the ROTC team, [Stan-Eval (CCVE) channel](https://teams.microsoft.com/l/channel/19%3af3f8c5424b0040b2b3840b09780cd351%40thread.tacv2/CCVE%2520-%2520Stan-Eval?groupId=cb3abb7f-7504-4300-8e4f-30a968fbef22&tenantId=9f90e2a5-baf5-4a37-87bd-48acea06e6e2).  
@@ -89,28 +88,27 @@ There will be cadets within the wing who fall short on their responsibilities. I
 It is strongly recommended that you meet regularly over the breaks and at least once per week during the semester with the CW/CC, to discuss LLAB for the week and approve the following week’s OPORD. Be sure to keep a balanced approach when deciding whether to jump in or simply let the results of his/her decisions unfold. If no unacceptable mission impact will result, it’s okay to let the CW/CC fail. But you must capitalize on the opportunity to provide feedback and foster growth afterwards. Always show that you support them in public.
 
 ### Required Documentation
-
-### Operations Plan (OPLAN)
+#### Operations Plan (OPLAN)
 The CW/CC takes your strategic guidance and generates the OPLAN. The OPLAN provides operational-level guidance for all cadets in the wing. It is produced by the CW/CC and approved by the OFC each semester.
 
 See AFROTCI 36-2011 for specific requirements.
 
-### Operations Orders (OPORDs)
+#### Operations Orders (OPORDs)
 From the operational-level guidance provided in the OPLAN, the CW/CC is responsible for overseeing the creation of the OPORD for all mandatory Practical Military Training (PMT). The OPORD is what most cadets will see…it specifies the uniform of the day, location, time, Risk Management (RM) factors, and other details for each event. It is the tactical- level guidance that is too detailed for the OPLAN.
 
 Ensure RM is conducted for the specific activities that will be covered. DO NOT allow the CW/CC to cut and paste the same RM assessment from one week to the next.
 
-### Organizational Chart
+#### Organizational Chart
 The CW/CC will provide you an Org Chart with names and cadet ranks attached to positions. It should be clear, made available to all cadets, and published in hard copy and electronically, if possible. If your CW/CC can complete this over the summer and winter breaks, all cadet leaders can start planning for their positions well in advance.
 
 Be sure to designate all leadership positions somehow – whether via color coding, bold, etc – and structure as close to an active-duty wing as possible.
 
 You’ll need to ensure that each cadet holds at least one leadership position. This can be tracked via retention of Org Charts or with a leadership position tracker that lists all cadets and the jobs they’ve had.
 
-### Job Descriptions
+#### Job Descriptions
 The regulation does not provide much guidance here, but the CW/CC must submit a description for every position on the Org Chart. A great tip is to produce descriptions that give cadets guidance on what their job responsibilities are…allowing cadet supervisors to evaluate their subordinates during feedback sessions. DO NOT include any references to fundraising. 
 
-### Leadership Laboratory Syllabus
+#### Leadership Laboratory Syllabus
 You will write the LLAB syllabus each semester. The more detail you can provide, the better. This is where you set out your expectations of attendance (be specific!), provide the schedule for all PT and LLAB activities, and outline the objectives to be covered by each class.
 
 A note about grading...it’s very important to understand that there are only three things that can be considered to pass LLAB:
